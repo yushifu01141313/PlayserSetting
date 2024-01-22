@@ -1,0 +1,32 @@
+{
+    "IconData": [
+        {
+            "PrefabName": "Assets/Cube.prefab",
+            "PrefabMap": [
+                {
+                    "PrefabName": "Assets/Cube.prefab",
+                    "PrefabID": "3C7289137D5B300E884549028BD10EA0DA9D26B58DCB40D09E79008AD88AADEB"
+                }
+            ],
+            "MatMap": [
+                {
+                    "MatName": "Assets/Samples/ResourceFramework/0.0.1/BuildBundleSample/Scripts/New Material.mat",
+                    "MatHashID": "611D3C1367D3883253E8AC2E1338B18CF7CF851D0C4234BA859DDCDBFD75C147"
+                }
+            ],
+            "ShaderMap": [],
+            "MeshMap": [
+                {
+                    "MeshName": "Assets/Art/Resource/City/Environment/Model/aquaLuna.fbx",
+                    "MeshHashID": "419A220841CF1F69061EAC1F337EBEB062246C76F8716B66929EF43B2F7F3D10"
+                }
+            ],
+            "TexMap": [
+                {
+                    "TexName": "Assets/Art/Resource/City/Environment/Texture/object_D.png",
+                    "TexHashID": "42C962A275AB05716B69F8EBDA2EDC11339B5AC8A0D6A1761954F98DAB377FC9"
+                }
+            ]
+        }
+    ]
+}

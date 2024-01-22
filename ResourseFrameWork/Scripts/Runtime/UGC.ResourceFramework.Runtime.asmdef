@@ -1,0 +1,17 @@
+{
+    "name": "UGC.ResourceFramework.Runtime",
+    "rootNamespace": "UGC.ResourceFramework.Runtime",
+    "references": [
+        "GUID:7f27511d7ad0a0a448cf2592928a3ce9",
+        "GUID:85bdf8379ff0f704ebb3aca0bba65f6a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,121 @@
+{
+    "SceneBlockMap": [
+        {
+            "ScenePath": "Assets/Blocks/block10.unity",
+            "ManifestHashID": "B60E02A69C89FF0935075C46180E9D61983054B6D68F75C2B88BCF2B458CA238",
+            "Index": 10,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -1.3685002326965333,
+                -0.11999988555908203,
+                1.712249755859375,
+                2.580000162124634
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block11.unity",
+            "ManifestHashID": "2B6E0A51B2C6E71B15A2AEBD499F7CD1FB6DCD3910FBAB8C7FE9F1F235E450E3",
+            "Index": 11,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -1.3685002326965333,
+                2.580000162124634,
+                1.712249755859375,
+                5.28000020980835
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block14.unity",
+            "ManifestHashID": "787FEC47BEC0A6EDC497D423A3F0A68715C2FE7BBFB51C6AB1BB726E27D29AC4",
+            "Index": 14,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                1.712249755859375,
+                -0.11999988555908203,
+                4.792999744415283,
+                2.580000162124634
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block8.unity",
+            "ManifestHashID": "A72B8B3F44705FEDA8950BFDEBDC2586A6FD87A20A3426CCD876CC508F9926EF",
+            "Index": 8,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -1.3685002326965333,
+                -5.519999980926514,
+                1.712249755859375,
+                -2.819999933242798
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block2.unity",
+            "ManifestHashID": "AD145083B884E11D9FCE8F5CBDE0EEAD4AD7A680E0640EA635849028EEA7B709",
+            "Index": 2,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -7.53000020980835,
+                -0.11999988555908203,
+                -4.449250221252441,
+                2.580000162124634
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block6.unity",
+            "ManifestHashID": "92F22CADA180A2B92FD597BEB79983849072040B289A46F1BE6EEA5A2D1F72A1",
+            "Index": 6,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -4.449250221252441,
+                -0.11999988555908203,
+                -1.3685002326965333,
+                2.580000162124634
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block13.unity",
+            "ManifestHashID": "D63191A13E47FFD9092039069706118D0D320622BB81390EF1FFEC90BF587F5B",
+            "Index": 13,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                1.712249755859375,
+                -2.819999933242798,
+                4.792999744415283,
+                -0.11999988555908203
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block9.unity",
+            "ManifestHashID": "97AA9E4DAA7C5CAE43A05FAAB5FC7788EDFDCC8325DC8A2AC63835EAF02B6A23",
+            "Index": 9,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -1.3685002326965333,
+                -2.819999933242798,
+                1.712249755859375,
+                -0.11999988555908203
+            ]
+        },
+        {
+            "ScenePath": "Assets/Blocks/block5.unity",
+            "ManifestHashID": "59F0543515F44B78F482AD59C841B087F6CC26687C9A52FEB7A8D6F00347CACA",
+            "Index": 5,
+            "IsStartScene": false,
+            "TexturePaths": [],
+            "BlockPoints": [
+                -4.449250221252441,
+                -2.819999933242798,
+                -1.3685002326965333,
+                -0.11999988555908203
+            ]
+        }
+    ]
+}
