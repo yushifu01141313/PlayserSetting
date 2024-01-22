@@ -1,0 +1,16 @@
+{
+    "name": "MyLink.GameObjectTable.Runtime",
+    "rootNamespace": "MyLink.GameObjectTable.Runtime",
+    "references": [
+        "GUID:7f27511d7ad0a0a448cf2592928a3ce9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
